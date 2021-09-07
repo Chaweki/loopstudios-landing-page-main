@@ -91,14 +91,15 @@ h1, h2, h3, a {
   text-transform: uppercase;
 }
 
-nav a:hover::after {
-  content: "";
-  display: block;
-  margin: auto;
-  width: 25px;
-  border: 1px solid #fff;
+@media screen and (min-width: 800px) {
+  nav a:hover::after {
+    content: "";
+    display: block;
+    margin: auto;
+    width: 25px;
+    border: 1px solid #fff;
+  }
 }
-
 header {
   padding: 5%;
 }
