@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Chaweki/loopstudios-landing-page-main)
-- Live Site URL: [Add live site URL here](https://chaweki.github.io/loopstudios-landing-page-main/)
+- Solution URL: https://github.com/Chaweki/loopstudios-landing-page-main
+- Live Site URL: https://chaweki.github.io/loopstudios-landing-page-main/
 
 ## My process
 
