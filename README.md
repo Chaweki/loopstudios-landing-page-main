@@ -23,13 +23,6 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-![](./desktop_view.png)
-![](./mobile_view.png)
-![](./burger_menu.png)
-
-
 
 
 ### Links
@@ -49,6 +42,13 @@ Users should be able to:
 ### What I learned
 
 i learned how to well think about the layout and how to use containers it was tricky but very helpful 
+
+
+### Screenshot
+
+![](./desktop_view.png)
+![](./mobile_view.png)
+![](./burger_menu.png)
 
 
 
