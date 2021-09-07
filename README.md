@@ -23,19 +23,12 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-![](./desktop_view.png)
-![](./mobile_view.png)
-![](./burger_menu.png)
-
-
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Chaweki/loopstudios-landing-page-main
+- Live Site URL: https://chaweki.github.io/loopstudios-landing-page-main/
 
 ## My process
 
@@ -49,6 +42,13 @@ Users should be able to:
 ### What I learned
 
 i learned how to well think about the layout and how to use containers it was tricky but very helpful 
+
+
+### Screenshot
+
+![](./desktop_view.png)
+![](./mobile_view.png)
+![](./burger_menu.png)
 
 
 
