@@ -8,11 +8,13 @@ h1,h2,h3,a{
     font-weight: 300;
     text-transform: uppercase;
 }
-nav a:hover::after{
-    content: '';
-    display: block;
-    margin: auto;
+@media screen and (max-width:800px){
+    nav a:hover::after{
+        content: '';
+        display: block;
+        margin: auto;
 
-    width: 25px;
-    border: 1px solid #fff
+        width: 25px;
+        border: 1px solid #fff
+    }
 }
