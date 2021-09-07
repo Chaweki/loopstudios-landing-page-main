@@ -1,0 +1,24 @@
+.btn-see-all{
+    display: block;
+    width: 7rem;
+    height: 2rem;
+    padding-top: 5px;
+    margin-bottom: 20%;
+
+    color: #000000;
+    font-family: 'Alata',sans-serif;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: .2rem;
+    
+    border: 1px solid #000000
+}
+@media screen and (min-width:800px){
+    .btn-see-all:hover{
+        color: #ffffff;
+        background: #000000
+    }
+    .btn-see-all{
+        margin-bottom: 0;
+    }
+}

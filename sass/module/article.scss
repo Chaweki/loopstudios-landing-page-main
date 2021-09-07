@@ -1,0 +1,41 @@
+.article{
+    text-align: center;
+    padding: 6% 7%;
+    background-color: #fff;
+    
+    &-title{
+        font-size: 2rem
+    }
+    &-paragraph{
+        color: hsl(0, 0%, 55%);
+        padding: 20px
+        
+    }
+}
+@media screen and (min-width:800px){
+    .article{
+        max-width: 580px;
+        max-height: 293px;
+        height: 100%;
+        width: 100%;
+
+        &-container{
+            position: relative;
+            max-width: 1123px;
+            width: 100%;
+            margin-bottom: 1%;
+        }
+        p{
+            text-align: justify;
+            max-width: 443px;
+        }
+        padding-bottom: 20px;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        
+
+        
+        
+    }
+}

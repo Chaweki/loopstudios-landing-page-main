@@ -1,0 +1,57 @@
+header{
+    padding: 5%;
+    
+}
+main{
+    padding: 5%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer{
+    display: flex;
+    
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8%;
+}
+.card-container{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    margin-top: 10%
+
+    
+}
+
+.card-catalogue{
+    
+    display: flex;
+    flex-flow: wrap;
+    max-width: 1123px;
+    justify-content: space-between;
+    margin-top: 5% ;
+    
+    
+}
+.btn-see-all{
+    order: 3
+} 
+
+@media screen and (min-width:800px){
+    
+    .card-container{
+    max-width: 1123px;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+
+    
+}
+
+    .btn-see-all{
+    order: unset
+    } 
+}
