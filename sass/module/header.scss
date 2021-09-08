@@ -76,7 +76,7 @@ header{
 
 @media screen and (min-width:800px){
     header{
-      background: url(images/desktop/image-hero.jpg) no-repeat center;
+      background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/desktop/image-hero.jpg) no-repeat center;
     background-size: cover;
     label{
         display: none;
