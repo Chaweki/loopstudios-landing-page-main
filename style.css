@@ -185,6 +185,11 @@ footer {
   .card:hover .card-img {
     filter: opacity(0.5);
   }
+
+  .card-img {
+    width: 256px;
+    height: 450px;
+  }
 }
 .btn-see-all {
   display: block;
